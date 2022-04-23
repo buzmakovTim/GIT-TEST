@@ -8,3 +8,5 @@
 
 
 // Created a new-branch!
+
+// New functions added from main computer!
