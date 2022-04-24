@@ -5,11 +5,3 @@
 // Add ON from secondary computer
 // CHANGED!!! 
 // ANOTHER CHANGE!!!
-
-
-// Created a new-branch!
-// New function
-// new-branch updated!
-
-// Update from secondary
-// From main computer change!
